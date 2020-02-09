@@ -46,6 +46,7 @@ Todas as traduções para este repositório serão listadas abaixo:
 - [German](https://github.com/burhannn/33-js-concepts) — burhannn
 - [Ukrainian](https://github.com/AndrewSavetchuk/33-js-concepts-ukrainian-translation) — Andrew Savetchuk
 - [Sinhala](https://github.com/ududsha/33-js-concepts) — Udaya Shamendra
+- [Italian](https://github.com/Donearm/33-js-concepts) - Gianluca Fiore
 
 ---
 
