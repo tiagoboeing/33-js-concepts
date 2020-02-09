@@ -89,8 +89,9 @@ Todas as traduções para este repositório serão listadas abaixo:
 
 ## 1. Pilha de chamadas
 
-### Artigos (inglês)
+### Artigos (inglês/português)
 
+ * 📜 [Entenda de uma vez por todas a pilha de chamadas (Callstack) do JavaScript](https://js.pro.br/callstack-entenda-pilha-chamadas-javascript)
  * 📜 [Understanding Javascript Call Stack, Event Loops — Gaurav Pandvia](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
  * 📜 [Understanding the JavaScript Call Stack — Charles Freeborn](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
  * 📜 [Javascript: What Is The Execution Context? What Is The Call Stack? — Valentino Gagliardi](https://www.valentinog.com/blog/js-execution-context-call-stack/)
