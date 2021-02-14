@@ -29,6 +29,8 @@ Sinta-se à vontade para enviar um PR adicionando um link para suas próprias re
 
 Todas as traduções para este repositório serão listadas abaixo:
 
+- [Albanian](https://github.com/eldrinf/33-js-concepts-albanian.git) — Eldrin Ereqi
+- [Arabic](https://github.com/amrsekilly/33-js-concepts) — Amr Elsekilly
 - [Chinese](https://github.com/stephentian/33-js-concepts) — Re Tian
 - [Portuguese-BR](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
 - [Korean](https://github.com/yjs03057/33-js-concepts.git) — Suin Lee
